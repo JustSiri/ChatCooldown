@@ -1,0 +1,4 @@
+name: ChatCooldown
+version: ${project.version}
+main: justsiri.ccd.chatcooldown.ChatCooldown
+api-version: 1.16
